@@ -2,7 +2,7 @@
 **DATE:**  
 ---
 
-## AIM
+## AIM:
 To design and construct an Inverting, Non-Inverting, Differential and Instrumentation amplifiers.
 
 ---
