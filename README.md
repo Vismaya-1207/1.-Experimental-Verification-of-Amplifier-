@@ -1,6 +1,5 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
----
+
 
 ## AIM:
 To design and construct an Inverting, Non-Inverting, Differential and Instrumentation amplifiers.
@@ -68,6 +67,11 @@ Take  A = 10
 Rf =10 R1
 Choose R1 = 1kΩ, Rf=10kΩ
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f6418a52-295b-405c-8f8f-f93f6a4c3111" />
+
+
+
+
 PROCEDURE:
 Inverting amplifier:
 
@@ -82,16 +86,16 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9a630364-b6ce-47d0-bf6c-ef4adefe0409" />
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/93a66efc-97cd-4f78-b73e-4da5f4b70beb" />
+
+
 
 
 ---
@@ -127,18 +131,14 @@ PROCEDURE:
 5. Compare practical and theoretical values of Vo .  
 6. Verify that practical gain ≈ theoretical gain.  
 7. Plot the input vs. output waveform for one practical case.
+### TABULATION:
 
-## TABULATION
-
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/bf4644ee-ef10-44c3-b29a-33747fa4914e" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/043dcb5d-4d21-42c1-9809-16b330e17edc" />
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -159,6 +159,10 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 ## DESIGN
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/b6ac4059-d249-4eb6-815b-976835363cf2" />
+
+
+
 
 ### **Differential Amplifier**
 
@@ -168,6 +172,8 @@ AV = Vo/{V1 - V2} = -Rf/R1
 Take  A = 10 
 ⇒  Rf = 10R1   
 Choose  R1 = 1kOhm, Rf = 10kOhm
+![WhatsApp Image 2026-03-30 at 11 06 04 AM](https://github.com/user-attachments/assets/42db7ca2-ff06-40af-b159-025cd580fbf7)
+
 
 ---
 
@@ -186,14 +192,13 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/62eb7da7-009e-4e41-a08c-0ffa7fed426e" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/b2484b55-c7dd-4a3d-b43e-ba7762669466" />
 
 
 ---
@@ -225,18 +230,18 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/02afe51e-5fa4-4c40-a44b-b10ab379da40" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/24aec955-3994-404f-952e-86cfe32ac8fe" />
 
 
 ---
 ## RESULT
 Thus, the **Inverting**, **Non-Inverting**, **Differential**, and **Instrumentation Amplifiers** were designed and their performance successfully tested using Op-Amp IC 741.
+<img width="2160" height="1664" alt="image" src="https://github.com/user-attachments/assets/653510fa-32dd-4379-9449-4471ad43e1f5" />
+
 
 ---
